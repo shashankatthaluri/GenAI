@@ -4,7 +4,7 @@ Welcome to the roadmap for learning Generative AI and Large Language Models (LLM
 
 ## Learn Python Basics 🐍
 
-Start by learning the basics of Python programming. It's the foundation for AI development and is relatively easy to grasp.
+Start by learning the basics of Python programming. It's the foundation for AI development and is relatively easy to grasp. (source: refer to my learning repository.)
 
 ## Setup Development Environment ⚙️
 
