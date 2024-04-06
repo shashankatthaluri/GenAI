@@ -10,6 +10,8 @@ Start by learning the basics of Python programming. It's the foundation for AI d
 
 Set up your development environment using tools like Google Colab, VSCode, or Jupyter Notebook. These tools make coding and experimenting with AI models easy and accessible.
 
+(Sources: https://medium.com/google-cloud/generative-ai-learning-path-notes-part-1-d36bc565df1f, https://medium.com/google-cloud/generative-ai-learning-path-notes-part-2-78a1855f6bd0)
+
 ## Learn Generative AI and LLM Fundamentals 📚
 
 Understand the core concepts behind Generative AI and Large Language Models. Don't worry; it's not as complicated as it sounds!
